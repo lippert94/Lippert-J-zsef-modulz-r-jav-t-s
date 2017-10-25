@@ -1,0 +1,17 @@
+c:\users\lippertjozsef\source\repos\LippertJozsefModulzaro\LippertJozsefModulzaro\obj\Debug\LippertJozsefModulzaro.csprojResolveAssemblyReference.cache
+c:\users\lippertjozsef\source\repos\LippertJozsefModulzaro\LippertJozsefModulzaro\obj\Debug\LanguageFormWindow.g.cs
+c:\users\lippertjozsef\source\repos\LippertJozsefModulzaro\LippertJozsefModulzaro\obj\Debug\MainWindow.g.cs
+c:\users\lippertjozsef\source\repos\LippertJozsefModulzaro\LippertJozsefModulzaro\obj\Debug\App.g.cs
+c:\users\lippertjozsef\source\repos\LippertJozsefModulzaro\LippertJozsefModulzaro\obj\Debug\LippertJozsefModulzaro_MarkupCompile.cache
+c:\users\lippertjozsef\source\repos\LippertJozsefModulzaro\LippertJozsefModulzaro\obj\Debug\LippertJozsefModulzaro_MarkupCompile.lref
+c:\users\lippertjozsef\source\repos\LippertJozsefModulzaro\LippertJozsefModulzaro\bin\Debug\LippertJozsefModulzaro.exe.config
+c:\users\lippertjozsef\source\repos\LippertJozsefModulzaro\LippertJozsefModulzaro\bin\Debug\LippertJozsefModulzaro.exe
+c:\users\lippertjozsef\source\repos\LippertJozsefModulzaro\LippertJozsefModulzaro\bin\Debug\LippertJozsefModulzaro.pdb
+c:\users\lippertjozsef\source\repos\LippertJozsefModulzaro\LippertJozsefModulzaro\obj\Debug\LanguageFormWindow.baml
+c:\users\lippertjozsef\source\repos\LippertJozsefModulzaro\LippertJozsefModulzaro\obj\Debug\MainWindow.baml
+c:\users\lippertjozsef\source\repos\LippertJozsefModulzaro\LippertJozsefModulzaro\obj\Debug\LippertJozsefModulzaro.g.resources
+c:\users\lippertjozsef\source\repos\LippertJozsefModulzaro\LippertJozsefModulzaro\obj\Debug\LippertJozsefModulzaro.Properties.Resources.resources
+c:\users\lippertjozsef\source\repos\LippertJozsefModulzaro\LippertJozsefModulzaro\obj\Debug\LippertJozsefModulzaro.csproj.GenerateResource.Cache
+c:\users\lippertjozsef\source\repos\LippertJozsefModulzaro\LippertJozsefModulzaro\obj\Debug\LippertJozsefModulzaro.csproj.CoreCompileInputs.cache
+c:\users\lippertjozsef\source\repos\LippertJozsefModulzaro\LippertJozsefModulzaro\obj\Debug\LippertJozsefModulzaro.exe
+c:\users\lippertjozsef\source\repos\LippertJozsefModulzaro\LippertJozsefModulzaro\obj\Debug\LippertJozsefModulzaro.pdb
